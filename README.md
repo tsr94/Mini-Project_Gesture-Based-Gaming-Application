@@ -164,6 +164,10 @@ socket.bind("tcp://*:5555")
 - Adjust `min_detection_confidence` in the script
 - Try adjusting `LOOK_SENSITIVITY` and `LOOK_DEADZONE` values
 
+### Video Link
+[![Watch Video](https://drive.google.com/uc?export=view&id=1WzbicTkuy9QwffDyRUMIelGxERuqFVhC)](https://drive.google.com/file/d/1WzbicTkuy9QwffDyRUMIelGxERuqFVhC/view)
+
+
 ## 📝 License
 
 This project uses:
